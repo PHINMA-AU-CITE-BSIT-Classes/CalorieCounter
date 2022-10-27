@@ -1,5 +1,5 @@
 # CalorieCounter
 ITE 031 Final Requirement
 
-Algorithms used:
+Algorithm used:
 Stack.
