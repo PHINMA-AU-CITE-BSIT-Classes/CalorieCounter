@@ -5,8 +5,7 @@
  * 2. Jayvee I. Detomas
  * 3. Railey R. Murillo
  * 4. Nathaniel S. Silvino
- * Date Submitted: October 29 2022
- * Date of Death: October 29 2022 */
+ * Date Submitted: October 29 2022 */
 import java.util.Scanner;
 import java.util.Stack;
 
